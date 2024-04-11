@@ -10,7 +10,6 @@ This is a solution to the [Rock, Paper, Scissors challenge on Frontend Mentor](h
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -27,10 +26,10 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](src/assets/ScreenshotDesktopRockPaperScissors.png)
-![Mobile1](src/assets/Screenshot-Mobile1RockPaperScissors.png)
-![Mobile2](src/assets/Screenshot-Mobile2RockPaperScissors.png)
-![Mobile3](src/assets/Screenshot-Mobile3RockPaperScissors.png)
+![Desktop](./ScreenshotDesktopRockPaperScissors.png)
+![Mobile1](./Screenshot-Mobile1RockPaperScissors.png)
+![Mobile2](./Screenshot-Mobile2RockPaperScissors.png)
+![Mobile3](./Screenshot-Mobile3RockPaperScissors.png)
 
 ### Links
 
